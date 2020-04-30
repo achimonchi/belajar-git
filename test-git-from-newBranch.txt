@@ -1,5 +1,2 @@
-Testing Branch with New Branch in github
-
-Testing ini berguna untuk belajar doang
-
-Add from master
+Ini adalah materi dasar
+- Python

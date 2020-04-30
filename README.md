@@ -91,9 +91,9 @@ untuk melakukan push juga, cuma bedanya ada `-u` sebagai `upstream`. Jadi, nanti
 
 - #### untuk liat graph perubahan commit pada git
 ```bash
-$ alias graph="git log --all --decorate --oneline --graph"
-$ graph
+$ git log --all --decorate --oneline --graph
 ```
+untuk melihat graph commit pada repo lokal
 
 
 

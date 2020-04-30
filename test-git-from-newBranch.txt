@@ -4,7 +4,6 @@ Testing ini berguna untuk belajar doang
 
 Add from master
 
-========= Dari Fitur 1 ==========
 Membuat materi :
 - NodeJS
-- React JS
+- MongoDB

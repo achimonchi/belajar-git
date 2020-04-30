@@ -5,7 +5,7 @@ Ini adalah deskripsi dari GIT
 ## Command Dasar
 - Untuk liat graph, bisa dilakukan 
 ```bash
-$ alias graph="git log --all --decorate --online --graph"
+$ alias graph="git log --all --decorate --oneline --graph"
 $ graph
 ```
 - untuk melihat branch yang sudah di buat

@@ -8,3 +8,4 @@ Add from master
 Membuat materi :
 - NodeJS
 - React JS
+- Angular JS

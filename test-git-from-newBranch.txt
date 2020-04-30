@@ -9,4 +9,6 @@ Membuat materi :
 - React JS
 - Angular JS
 - MongoDB
+- Docker
+- Kubernetes
 

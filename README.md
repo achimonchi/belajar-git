@@ -3,6 +3,11 @@ Ini adalah deskripsi dari GIT
 
 
 ## Command Dasar
+- memasukkan global config
+```bash
+git config --global user.name "your github name"
+git config --global user.email "your github email"
+```
 - Untuk liat graph, bisa dilakukan 
 ```bash
 $ alias graph="git log --all --decorate --oneline --graph"

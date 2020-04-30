@@ -6,6 +6,7 @@ Ini adalah deskripsi dari GIT
 - Untuk liat graph, bisa dilakukan 
 ```bash
 $ alias graph="git log --all --decorate --online --graph"
+$ graph
 ```
 - untuk melihat branch yang sudah di buat
 ```bash
